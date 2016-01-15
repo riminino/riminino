@@ -1,2 +1,2 @@
-# rpgit
-rpgit
+# riminino
+ex rpgit
