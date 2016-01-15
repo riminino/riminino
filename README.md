@@ -1,4 +1,4 @@
-# rpgit
-rpgit
+# riminino
+ex rpgit
 
-http://127.0.0.1/~petrosh/RPGIT/rpgit/
+riminino.github.com/rpgit
